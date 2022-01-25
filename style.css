@@ -10,7 +10,7 @@ font-family: 'Poppins', sans-serif;
   
   background-clip: border-box;
   border: 1px solid rgb(246, 246, 246);
-  border-radius: 50px;
+  border-radius: 5%;
   box-shadow: 10px  20px 20px rgb(219, 220, 223);
 }
 
