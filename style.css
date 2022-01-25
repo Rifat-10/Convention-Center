@@ -11,9 +11,13 @@ font-family: 'Poppins', sans-serif;
   background-clip: border-box;
   border: 1px solid rgb(246, 246, 246);
   border-radius: 50px;
-  box-shadow: 10px  15px 25px rgb(219, 220, 223);
+  box-shadow: 10px  20px 20px rgb(219, 220, 223);
 }
 
+.convention-radius {
+  border-radius: 100px;
+  background-color: #2a6bce;
+}
 .footer_bg{
     background-color: #0B0D17
   ;
